@@ -12,9 +12,9 @@ Welcome to the Tello Drone Face Tracking & Speech Recognition Project! This repo
 ## 📸 Preview
 
 
-![View1](./design/TelloExperience.jpg)
-![View2](./design/TelloExperience2.jpg)
-![View3](./design/TelloExperience3.jpg)
+![View1](../design/TelloExperience.jpg)
+![View2](../design/TelloExperience2.jpg)
+![View3](../design/TelloExperience3.jpg)
 
 ## 🚀 To Start Off
 
